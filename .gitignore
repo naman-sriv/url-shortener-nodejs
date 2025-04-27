@@ -138,3 +138,5 @@ dist
 
 # idea
 .idea
+
+node_modules
