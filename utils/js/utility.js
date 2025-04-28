@@ -3,7 +3,6 @@ function isValid(url) {
         new URL(url);
         return true;
     }catch (error){
-        console.error("Invalid url : "+error);
         return false;
     }
 }
